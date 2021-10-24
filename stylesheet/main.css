@@ -1,0 +1,19 @@
+body {
+    font-size: 16px;
+}
+
+.index-background{
+    background: url("../img/index-background.png ") no-repeat ;  
+    width:1200px;
+    height:485px;
+}
+
+.main-welcome {
+    padding-left: 411px;
+    padding-top: 116px;
+    width:458px;
+    height:352px;
+    
+        background: url("../img/welcome.png") no-repeat 411px 116px;  
+         
+    }
